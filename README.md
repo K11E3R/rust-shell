@@ -79,7 +79,7 @@ Core file operations with robust error handling:
 ### Building from Source
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rust-shell.git
+   git clone https://github.com/k11e3r/rust-shell.git
    cd rust-shell
    ```
 2. Build the project:
